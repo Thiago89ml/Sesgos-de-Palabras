@@ -4,8 +4,7 @@ CORPUS UTILIZADO
 
 El corpus utilizado fue uno que trata sobre noticias españolas. Para ello, se asoció la variable dfnews a la columna news del archivo CSV, la cual contiene dichas noticias.
 
-Las palabras utilizadas para la lista fueron:
-prometedor, esfuerzo, costoso, calidad, extranjero, habitante, cantidad, viable y deficiente.
+Las palabras utilizadas para la lista fueron: prometedor, esfuerzo, costoso, calidad, extranjero, habitante, cantidad, viable y deficiente.
 
 Estas palabras fueron seleccionadas porque, dentro del corpus, se asocian con ideas de negociación, oportunidades y riesgos, todas ellas enfocadas en ámbitos de inversión o de mercado.
 
